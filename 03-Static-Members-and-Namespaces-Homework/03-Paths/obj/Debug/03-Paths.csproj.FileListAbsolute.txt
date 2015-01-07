@@ -1,0 +1,6 @@
+D:\Software_University\Homeworks\OOP\03-Static-Members-and-Namespaces-Homework\03-Paths\bin\Debug\03-Paths.exe.config
+D:\Software_University\Homeworks\OOP\03-Static-Members-and-Namespaces-Homework\03-Paths\bin\Debug\03-Paths.exe
+D:\Software_University\Homeworks\OOP\03-Static-Members-and-Namespaces-Homework\03-Paths\bin\Debug\03-Paths.pdb
+D:\Software_University\Homeworks\OOP\03-Static-Members-and-Namespaces-Homework\03-Paths\obj\Debug\03-Paths.csprojResolveAssemblyReference.cache
+D:\Software_University\Homeworks\OOP\03-Static-Members-and-Namespaces-Homework\03-Paths\obj\Debug\03-Paths.exe
+D:\Software_University\Homeworks\OOP\03-Static-Members-and-Namespaces-Homework\03-Paths\obj\Debug\03-Paths.pdb

@@ -1,0 +1,6 @@
+D:\Software_University\Homeworks\OOP\03-Static-Members-and-Namespaces-Homework\05-BitArray\bin\Debug\05-BitArray.exe.config
+D:\Software_University\Homeworks\OOP\03-Static-Members-and-Namespaces-Homework\05-BitArray\bin\Debug\05-BitArray.exe
+D:\Software_University\Homeworks\OOP\03-Static-Members-and-Namespaces-Homework\05-BitArray\bin\Debug\05-BitArray.pdb
+D:\Software_University\Homeworks\OOP\03-Static-Members-and-Namespaces-Homework\05-BitArray\obj\Debug\05-BitArray.exe
+D:\Software_University\Homeworks\OOP\03-Static-Members-and-Namespaces-Homework\05-BitArray\obj\Debug\05-BitArray.pdb
+D:\Software_University\Homeworks\OOP\03-Static-Members-and-Namespaces-Homework\05-BitArray\obj\Debug\05-BitArray.csprojResolveAssemblyReference.cache
