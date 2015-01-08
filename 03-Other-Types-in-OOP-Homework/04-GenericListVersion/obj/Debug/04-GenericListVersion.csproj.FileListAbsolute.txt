@@ -1,0 +1,6 @@
+D:\Software_University\Homeworks\OOP\03-Other-Types-in-OOP-Homework\04-GenericListVersion\bin\Debug\04-GenericListVersion.exe.config
+D:\Software_University\Homeworks\OOP\03-Other-Types-in-OOP-Homework\04-GenericListVersion\bin\Debug\04-GenericListVersion.exe
+D:\Software_University\Homeworks\OOP\03-Other-Types-in-OOP-Homework\04-GenericListVersion\bin\Debug\04-GenericListVersion.pdb
+D:\Software_University\Homeworks\OOP\03-Other-Types-in-OOP-Homework\04-GenericListVersion\obj\Debug\04-GenericListVersion.csprojResolveAssemblyReference.cache
+D:\Software_University\Homeworks\OOP\03-Other-Types-in-OOP-Homework\04-GenericListVersion\obj\Debug\04-GenericListVersion.exe
+D:\Software_University\Homeworks\OOP\03-Other-Types-in-OOP-Homework\04-GenericListVersion\obj\Debug\04-GenericListVersion.pdb

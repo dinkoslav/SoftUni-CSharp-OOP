@@ -1,0 +1,6 @@
+D:\Software_University\Homeworks\OOP\03-Other-Types-in-OOP-Homework\02-FractionCalculator\bin\Debug\02-FractionCalculator.exe.config
+D:\Software_University\Homeworks\OOP\03-Other-Types-in-OOP-Homework\02-FractionCalculator\bin\Debug\02-FractionCalculator.exe
+D:\Software_University\Homeworks\OOP\03-Other-Types-in-OOP-Homework\02-FractionCalculator\bin\Debug\02-FractionCalculator.pdb
+D:\Software_University\Homeworks\OOP\03-Other-Types-in-OOP-Homework\02-FractionCalculator\obj\Debug\02-FractionCalculator.csprojResolveAssemblyReference.cache
+D:\Software_University\Homeworks\OOP\03-Other-Types-in-OOP-Homework\02-FractionCalculator\obj\Debug\02-FractionCalculator.exe
+D:\Software_University\Homeworks\OOP\03-Other-Types-in-OOP-Homework\02-FractionCalculator\obj\Debug\02-FractionCalculator.pdb
