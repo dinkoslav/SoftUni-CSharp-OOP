@@ -1,0 +1,1 @@
+D:\Homeworks\SoftUni\OOP\02-Static-Members-and-Namespaces-Homework\06-Namespaces\bin\Debug\06-Namespaces.exe.config

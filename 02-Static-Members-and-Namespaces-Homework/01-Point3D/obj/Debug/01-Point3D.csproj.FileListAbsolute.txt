@@ -4,3 +4,9 @@ D:\Software_University\Homeworks\OOP\03-Static-Members-and-Namespaces-Homework\0
 D:\Software_University\Homeworks\OOP\03-Static-Members-and-Namespaces-Homework\01-Point3D\obj\Debug\01-Point3D.csprojResolveAssemblyReference.cache
 D:\Software_University\Homeworks\OOP\03-Static-Members-and-Namespaces-Homework\01-Point3D\obj\Debug\01-Point3D.exe
 D:\Software_University\Homeworks\OOP\03-Static-Members-and-Namespaces-Homework\01-Point3D\obj\Debug\01-Point3D.pdb
+D:\Homeworks\SoftUni\OOP\02-Static-Members-and-Namespaces-Homework\01-Point3D\bin\Debug\01-Point3D.exe.config
+D:\Homeworks\SoftUni\OOP\02-Static-Members-and-Namespaces-Homework\01-Point3D\obj\Debug\01-Point3D.exe
+D:\Homeworks\SoftUni\OOP\02-Static-Members-and-Namespaces-Homework\01-Point3D\obj\Debug\01-Point3D.pdb
+D:\Homeworks\SoftUni\OOP\02-Static-Members-and-Namespaces-Homework\01-Point3D\bin\Debug\01-Point3D.exe
+D:\Homeworks\SoftUni\OOP\02-Static-Members-and-Namespaces-Homework\01-Point3D\bin\Debug\01-Point3D.pdb
+D:\Homeworks\SoftUni\OOP\02-Static-Members-and-Namespaces-Homework\01-Point3D\obj\Debug\01-Point3D.csprojResolveAssemblyReference.cache
