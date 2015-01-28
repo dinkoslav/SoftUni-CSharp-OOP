@@ -1,0 +1,1 @@
+D:\Homeworks\SoftUni\OOP\05-Inheritance-and-Abstraction\05-Inheritance-and-Abstraction\BusinessReportApplication\bin\Debug\BusinessReportApplication.exe.config

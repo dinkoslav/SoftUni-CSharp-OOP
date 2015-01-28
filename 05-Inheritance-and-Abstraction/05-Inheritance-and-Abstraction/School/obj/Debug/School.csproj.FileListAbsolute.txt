@@ -1,0 +1,9 @@
+D:\Software_University\Homeworks\OOP\05-Inheritance-and-Abstraction\School\bin\Debug\School.exe.config
+D:\Software_University\Homeworks\OOP\05-Inheritance-and-Abstraction\School\bin\Debug\School.exe
+D:\Software_University\Homeworks\OOP\05-Inheritance-and-Abstraction\School\bin\Debug\School.pdb
+D:\Software_University\Homeworks\OOP\05-Inheritance-and-Abstraction\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+D:\Software_University\Homeworks\OOP\05-Inheritance-and-Abstraction\School\obj\Debug\School.exe
+D:\Software_University\Homeworks\OOP\05-Inheritance-and-Abstraction\School\obj\Debug\School.pdb
+D:\Homeworks\SoftUni\OOP\05-Inheritance-and-Abstraction\05-Inheritance-and-Abstraction\School\bin\Debug\School.exe.config
+D:\Homeworks\SoftUni\OOP\05-Inheritance-and-Abstraction\05-Inheritance-and-Abstraction\School\obj\Debug\School.exe
+D:\Homeworks\SoftUni\OOP\05-Inheritance-and-Abstraction\05-Inheritance-and-Abstraction\School\obj\Debug\School.pdb
