@@ -4,3 +4,6 @@ D:\Software_University\Homeworks\OOP\05-Inheritance-and-Abstraction\HumanStudent
 D:\Software_University\Homeworks\OOP\05-Inheritance-and-Abstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.csprojResolveAssemblyReference.cache
 D:\Software_University\Homeworks\OOP\05-Inheritance-and-Abstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.exe
 D:\Software_University\Homeworks\OOP\05-Inheritance-and-Abstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.pdb
+D:\Homeworks\SoftUni\OOP\05-Inheritance-and-Abstraction\05-Inheritance-and-Abstraction\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe.config
+D:\Homeworks\SoftUni\OOP\05-Inheritance-and-Abstraction\05-Inheritance-and-Abstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.exe
+D:\Homeworks\SoftUni\OOP\05-Inheritance-and-Abstraction\05-Inheritance-and-Abstraction\HumanStudentWorker\obj\Debug\HumanStudentWorker.pdb
