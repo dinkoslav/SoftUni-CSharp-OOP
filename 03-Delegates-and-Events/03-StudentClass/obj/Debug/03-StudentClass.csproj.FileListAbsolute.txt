@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\OOP\03-Delegates-and-Events\03-StudentClass\bin\Debug\03-StudentClass.exe.config
+D:\Homeworks\SoftUni\OOP\03-Delegates-and-Events\03-StudentClass\bin\Debug\03-StudentClass.exe
+D:\Homeworks\SoftUni\OOP\03-Delegates-and-Events\03-StudentClass\bin\Debug\03-StudentClass.pdb
+D:\Homeworks\SoftUni\OOP\03-Delegates-and-Events\03-StudentClass\obj\Debug\03-StudentClass.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\OOP\03-Delegates-and-Events\03-StudentClass\obj\Debug\03-StudentClass.exe
+D:\Homeworks\SoftUni\OOP\03-Delegates-and-Events\03-StudentClass\obj\Debug\03-StudentClass.pdb

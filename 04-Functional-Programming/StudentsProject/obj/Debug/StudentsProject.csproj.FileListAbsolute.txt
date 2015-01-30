@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\OOP\04-Functional-Programming\StudentsProject\bin\Debug\StudentsProject.exe.config
+D:\Homeworks\SoftUni\OOP\04-Functional-Programming\StudentsProject\bin\Debug\StudentsProject.exe
+D:\Homeworks\SoftUni\OOP\04-Functional-Programming\StudentsProject\bin\Debug\StudentsProject.pdb
+D:\Homeworks\SoftUni\OOP\04-Functional-Programming\StudentsProject\obj\Debug\StudentsProject.exe
+D:\Homeworks\SoftUni\OOP\04-Functional-Programming\StudentsProject\obj\Debug\StudentsProject.pdb
+D:\Homeworks\SoftUni\OOP\04-Functional-Programming\StudentsProject\obj\Debug\StudentsProject.csprojResolveAssemblyReference.cache

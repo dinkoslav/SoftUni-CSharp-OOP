@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\OOP\04-Functional-Programming\Problem02-CustomLINQExtensionMethods\bin\Debug\Problem02-CustomLINQExtensionMethods.exe.config
+D:\Homeworks\SoftUni\OOP\04-Functional-Programming\Problem02-CustomLINQExtensionMethods\bin\Debug\Problem02-CustomLINQExtensionMethods.exe
+D:\Homeworks\SoftUni\OOP\04-Functional-Programming\Problem02-CustomLINQExtensionMethods\bin\Debug\Problem02-CustomLINQExtensionMethods.pdb
+D:\Homeworks\SoftUni\OOP\04-Functional-Programming\Problem02-CustomLINQExtensionMethods\obj\Debug\Problem02-CustomLINQExtensionMethods.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\OOP\04-Functional-Programming\Problem02-CustomLINQExtensionMethods\obj\Debug\Problem02-CustomLINQExtensionMethods.exe
+D:\Homeworks\SoftUni\OOP\04-Functional-Programming\Problem02-CustomLINQExtensionMethods\obj\Debug\Problem02-CustomLINQExtensionMethods.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem02-CustomLINQExtensionMethods", "Problem02-CustomLINQExtensionMethods\Problem02-CustomLINQExtensionMethods.csproj", "{9691BB5C-32CD-4DE0-8A47-A776CA34316D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsProject", "StudentsProject\StudentsProject.csproj", "{71256B78-03BC-44E1-AC63-E915E4E600CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9691BB5C-32CD-4DE0-8A47-A776CA34316D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9691BB5C-32CD-4DE0-8A47-A776CA34316D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9691BB5C-32CD-4DE0-8A47-A776CA34316D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9691BB5C-32CD-4DE0-8A47-A776CA34316D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71256B78-03BC-44E1-AC63-E915E4E600CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71256B78-03BC-44E1-AC63-E915E4E600CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71256B78-03BC-44E1-AC63-E915E4E600CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71256B78-03BC-44E1-AC63-E915E4E600CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
