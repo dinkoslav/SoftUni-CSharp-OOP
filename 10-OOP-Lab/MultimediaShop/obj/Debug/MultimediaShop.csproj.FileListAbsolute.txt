@@ -1,0 +1,6 @@
+D:\Homeworks\Telerik\WPF\XAML-Basics\OOP-Lab\MultimediaShop\bin\Debug\MultimediaShop.exe.config
+D:\Homeworks\Telerik\WPF\XAML-Basics\OOP-Lab\MultimediaShop\bin\Debug\MultimediaShop.exe
+D:\Homeworks\Telerik\WPF\XAML-Basics\OOP-Lab\MultimediaShop\bin\Debug\MultimediaShop.pdb
+D:\Homeworks\Telerik\WPF\XAML-Basics\OOP-Lab\MultimediaShop\obj\Debug\MultimediaShop.csprojResolveAssemblyReference.cache
+D:\Homeworks\Telerik\WPF\XAML-Basics\OOP-Lab\MultimediaShop\obj\Debug\MultimediaShop.exe
+D:\Homeworks\Telerik\WPF\XAML-Basics\OOP-Lab\MultimediaShop\obj\Debug\MultimediaShop.pdb
