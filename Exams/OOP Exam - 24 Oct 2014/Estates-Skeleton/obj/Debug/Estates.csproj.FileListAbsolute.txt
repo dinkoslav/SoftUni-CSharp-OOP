@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 24 Oct 2014\Estates-Skeleton\bin\Debug\Estates.exe
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 24 Oct 2014\Estates-Skeleton\bin\Debug\Estates.pdb
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 24 Oct 2014\Estates-Skeleton\obj\Debug\Estates.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 24 Oct 2014\Estates-Skeleton\obj\Debug\Estates.exe
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 24 Oct 2014\Estates-Skeleton\obj\Debug\Estates.pdb
