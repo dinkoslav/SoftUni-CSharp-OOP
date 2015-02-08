@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 26 Oct 2014\RestaurantManager-Skeleton\bin\Debug\RestaurantManager.exe
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 26 Oct 2014\RestaurantManager-Skeleton\bin\Debug\RestaurantManager.pdb
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 26 Oct 2014\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 26 Oct 2014\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.exe
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 26 Oct 2014\RestaurantManager-Skeleton\obj\Debug\RestaurantManager.pdb
