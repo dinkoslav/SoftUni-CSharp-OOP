@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 26 Oct 2014\NightlifeEntertainment-Skeleton\NightlifeEntertainment\bin\Debug\NightlifeEntertainment.exe.config
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 26 Oct 2014\NightlifeEntertainment-Skeleton\NightlifeEntertainment\obj\Debug\NightlifeEntertainment.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 26 Oct 2014\NightlifeEntertainment-Skeleton\NightlifeEntertainment\bin\Debug\NightlifeEntertainment.exe
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 26 Oct 2014\NightlifeEntertainment-Skeleton\NightlifeEntertainment\bin\Debug\NightlifeEntertainment.pdb
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 26 Oct 2014\NightlifeEntertainment-Skeleton\NightlifeEntertainment\obj\Debug\NightlifeEntertainment.exe
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 26 Oct 2014\NightlifeEntertainment-Skeleton\NightlifeEntertainment\obj\Debug\NightlifeEntertainment.pdb
