@@ -7,38 +7,43 @@ namespace FarmersCreed.Units
 {
     public class CherryTree : FoodPlant
     {
-        private const int CherryTreeHealth = 14;
-        private const int CherryTreeGrowTime = 3;
-        private const int CherryTreeProductionQuantity = 4;
-        private const int CherryTreeHealthEffect = 2;
-        private const ProductType CherryTreeProdType = ProductType.Cherry;
+        private const int CherryHealth = 14;
+        private const ProductType CherryProductType = ProductType.Cherry;
+        private const FoodType CherryFoodType = FoodType.Organic;
+        private const int CherryHealthEffect = 2;
+        private const int CherryProductionQuantity = 4;
+        private const int CherryGrowTime = 3;
 
         public CherryTree(string id)
-            : base(id, CherryTreeHealth, CherryTreeProductionQuantity, CherryTreeGrowTime, CherryTreeProdType, CherryTreeHealthEffect)
+            : base(id, CherryHealth, CherryProductionQuantity, CherryGrowTime)
         {
+        }
+
+        public ProductType ProductType
+        {
+            get { return CherryProductType; }
+        }
+
+        public FoodType FoodType
+        {
+            get { return CherryFoodType; }
+        }
+
+        public int HealthEffect
+        {
+            get { return CherryHealthEffect; }
         }
 
         public override Product GetProduct()
         {
             if (IsAlive)
             {
-                return new Food(this.Id + "Product", CherryTreeProdType, FoodType.Organic,  CherryTreeProductionQuantity, CherryTreeHealthEffect);
+                return new Food(this.Id + "Product", this.ProductType, this.FoodType, this.ProductionQuantity,
+                    this.HealthEffect);
             }
             else
             {
-                throw new ArgumentException("CherryTree is dead!");
-            }
-        }
-
-        public override void Wither()
-        {
-            if (this.Health > 0)
-            {
-                this.Health -= 2;
-            }
-            if (this.Health <= 0 )
-            {
-                this.IsAlive = false;
+                throw new ArgumentException("Cherry tree is already dead!");
             }
         }
     }

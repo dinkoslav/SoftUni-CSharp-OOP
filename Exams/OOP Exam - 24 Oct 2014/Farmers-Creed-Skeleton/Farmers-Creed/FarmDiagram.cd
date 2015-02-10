@@ -18,7 +18,7 @@
   <Class Name="FarmersCreed.Units.FarmUnit">
     <Position X="8.5" Y="3.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AQAACAAQACAABAAAAAQAAAAAAAAAAAAAAAAACAkAAAg=</HashCode>
+      <HashCode>AQAACAAAACAAAAAAAAAAAAAAAAAAAAAAAAAACAkAAAg=</HashCode>
       <FileName>Units\FarmUnit.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
@@ -31,7 +31,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="FarmersCreed.Units.Farm">
-    <Position X="5.25" Y="3.75" Width="1.5" />
+    <Position X="5.5" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAQAgAAAAAAAAAAAAAQQAAAFAAkAAAAAAAEBAAAkAQ=</HashCode>
       <FileName>Units\Farm.cs</FileName>
@@ -47,16 +47,16 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="FarmersCreed.Units.Animal">
-    <Position X="7.5" Y="8" Width="1.5" />
+    <Position X="7.5" Y="7.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEA=</HashCode>
+      <HashCode>gAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
       <FileName>Units\Animal.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FarmersCreed.Units.Plant">
-    <Position X="9.5" Y="8" Width="1.5" />
+    <Position X="9.5" Y="7.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAgAAABAAAAAAAAAAQgAgAEAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAgAAABAAAAAAAAAAQgAgAEAAAgAAAAAAAACAAAAAA=</HashCode>
       <FileName>Units\Plant.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -68,49 +68,49 @@
     </TypeIdentifier>
   </Class>
   <Class Name="FarmersCreed.Units.TobaccoPlant">
-    <Position X="10.75" Y="11.5" Width="1.5" />
+    <Position X="11" Y="11.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAACAABACAABAAAAAQAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Units\Tobacco.cs</FileName>
+      <HashCode>AAAAAAATAgAAAAAAAAAAAAAAAAAAAAAgAAAACAAAAAI=</HashCode>
+      <FileName>Units\TobaccoPlant.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FarmersCreed.Units.FoodPlant">
-    <Position X="8.75" Y="11.5" Width="1.5" />
+    <Position X="8.75" Y="11.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAIAAAAAAAAAAAAAAAAAAgAAAAAgAAAAAAAAAAAAAEA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAgAAAAAAAACAAAAAA=</HashCode>
       <FileName>Units\FoodPlant.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FarmersCreed.Units.CherryTree">
-    <Position X="8.75" Y="14.5" Width="1.5" />
+    <Position X="8.75" Y="14" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAACAAAACAABAAAAAQAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAQAAAABAIAAAAgAAAAQAIACAAAAAAQCAAAAEA=</HashCode>
       <FileName>Units\CherryTree.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FarmersCreed.Units.Cow">
-    <Position X="6.75" Y="11" Width="1.5" />
+    <Position X="6.25" Y="10.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAIACAAAACAABAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>gAAAAAAQEAAEBAABAAAAAQAAAAAAACAAAAAACAAAgEA=</HashCode>
       <FileName>Units\Cow.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FarmersCreed.Units.Swine">
-    <Position X="5" Y="11" Width="1.5" />
+    <Position X="4.25" Y="10.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAIACAAAACAABAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>gAAgAAAQEAAABAAAAAEAAQIAAAAAAAAAgAAACAAAAEA=</HashCode>
       <FileName>Units\Swine.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="FarmersCreed.Simulator.UpdatedFarmSimulator" Collapsed="true">
-    <Position X="0.5" Y="7.75" Width="1.5" />
+  <Class Name="FarmersCreed.Simulator.UpdatedFarmSimulator">
+    <Position X="0.5" Y="8.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Simulator\UpdatedFarmSimulator.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Interface Name="FarmersCreed.Interfaces.IProductProduceable">
-    <Position X="0.5" Y="1" Width="1.5" />
+    <Position X="0.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
       <FileName>Interfaces\IProductProducable.cs</FileName>

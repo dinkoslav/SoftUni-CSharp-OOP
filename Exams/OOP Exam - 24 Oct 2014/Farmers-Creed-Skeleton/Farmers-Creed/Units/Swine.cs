@@ -9,14 +9,34 @@ namespace FarmersCreed.Units
     public class Swine : Animal
     {
         private const int SwineHealth = 20;
-        private const int SwineProductionQuantity = 1;
+        private const ProductType SwineProductType = ProductType.PorkMeat;
+        private const FoodType SwineFoodType = FoodType.Meat;
         private const int SwineHealthEffect = 5;
-        private const ProductType SwineProdType = ProductType.PorkMeat;
-        private const FoodType SwineFType = FoodType.Meat;
+        private const int SwineProductionQuantity = 1;
 
         public Swine(string id)
-            : base(id, SwineHealth, SwineProductionQuantity, SwineProdType, SwineHealthEffect, SwineFType)
+            : base(id, SwineHealth, SwineProductionQuantity)
         {
+        }
+
+        public ProductType ProductType
+        {
+            get { return SwineProductType; }
+        }
+
+        public FoodType FoodType
+        {
+            get { return SwineFoodType; }
+        }
+
+        public int HealthEffect
+        {
+            get { return SwineHealthEffect; }
+        }
+
+        public override void Starve()
+        {
+            this.Health -= 3;
         }
 
         public override void Eat(IEdible food, int quantity)
@@ -24,7 +44,7 @@ namespace FarmersCreed.Units
             if (food.Quantity >= quantity)
             {
                 food.Quantity -= quantity;
-                this.Health += (food.HealthEffect * 2) * quantity;
+                this.Health += food.HealthEffect * 2 * quantity;
             }
             else
             {
@@ -37,23 +57,12 @@ namespace FarmersCreed.Units
             if (IsAlive)
             {
                 this.IsAlive = false;
-                return new Food(this.Id + "Product", SwineProdType, SwineFType, SwineProductionQuantity, SwineHealthEffect);
+                return new Food(this.Id + "Product", this.ProductType, this.FoodType, this.ProductionQuantity,
+                    this.HealthEffect);
             }
             else
             {
-                throw new ArgumentException("CherryTree is dead!");
-            }
-        }
-
-        public override void Starve()
-        {
-            if (this.Health > 0)
-            {
-                this.Health -= 3;
-            }
-            if (this.Health <= 0)
-            {
-                this.IsAlive = false;
+                throw new ArgumentException("Swine is already dead!");
             }
         }
     }

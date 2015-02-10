@@ -1,35 +1,33 @@
-﻿using FarmersCreed.Interfaces;
-
-namespace FarmersCreed.Units
+﻿namespace FarmersCreed.Units
 {
     using System;
     using System.Text;
+    using FarmersCreed.Interfaces;
 
     public abstract class FarmUnit : GameObject, IProductProduceable
     {
         private int health;
         private bool isAlive = true;
         private int productionQuantity;
-        private int healthEffect;
 
-        protected FarmUnit(string id, int health, int productionQuantity, ProductType productType, int healtEffect)
+        protected FarmUnit(string id, int health, int productionQuantity)
             : base(id)
         {
             this.Health = health;
             this.ProductionQuantity = productionQuantity;
-            this.ProductType = productType;
-            this.healthEffect = healtEffect;
         }
 
         public int Health
         {
             get { return this.health; }
-            set { this.health = value; }
-        }
-
-        public int HealthEffect
-        {
-            get { return this.healthEffect; }
+            set
+            {
+                this.health = value;
+                if (this.health <= 0)
+                {
+                    this.isAlive = false;
+                }
+            }
         }
 
         public bool IsAlive
@@ -44,14 +42,11 @@ namespace FarmersCreed.Units
             set {
                 if (value < 0)
                 {
-                    throw new ArgumentOutOfRangeException("Production quantity can not be negative!");
+                    throw new ArgumentOutOfRangeException("Production Quantity can not be negative!");
                 }
-
                 this.productionQuantity = value;
             }
         }
-
-        public ProductType ProductType { get; set; }
 
         public abstract Product GetProduct();
 
@@ -66,6 +61,7 @@ namespace FarmersCreed.Units
             {
                 result.Append(", DEAD");
             }
+
             return result.ToString();
         }
     }

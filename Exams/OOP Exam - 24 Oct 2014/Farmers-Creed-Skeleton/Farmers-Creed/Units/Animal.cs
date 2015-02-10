@@ -5,18 +5,15 @@
 
     public abstract class Animal : FarmUnit
     {
-        private FoodType foodType;
-
-        protected Animal(string id, int health, int productionQuantity, ProductType productType, int healthEffect, FoodType foodType)
-            : base(id, health, productionQuantity, productType, healthEffect)
+        protected Animal(string id, int health, int productionQuantity)
+            : base(id, health, productionQuantity)
         {
-            this.foodType = foodType;
         }
 
-        public FoodType FoodType { get { return this.foodType; } }
+        public abstract void Starve();
 
         public abstract void Eat(IEdible food, int quantity);
 
-        public abstract void Starve();
+        public abstract override Product GetProduct();
     }
 }

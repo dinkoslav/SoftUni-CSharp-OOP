@@ -20,17 +20,17 @@ namespace FarmersCreed.Units
 
         public List<Plant> Plants
         {
-            get { return new List<Plant>(this.plants); }
+            get { return new List<Plant>(plants); }
         }
 
         public List<Animal> Animals
         {
-            get { return new List<Animal>(this.animals); }
+            get { return new List<Animal>(animals); }
         }
 
         public List<Product> Products
         {
-            get { return new List<Product>(this.products); }
+            get { return new List<Product>(products); }
         }
 
         public void AddProduct(Product product)
@@ -38,14 +38,14 @@ namespace FarmersCreed.Units
             this.products.Add(product);
         }
 
-        public void AddPlant(Plant plant)
-        {
-            this.plants.Add(plant);
-        }
-
         public void AddAnimal(Animal animal)
         {
             this.animals.Add(animal);
+        }
+
+        public void AddPlant(Plant plant)
+        {
+            this.plants.Add(plant);
         }
 
         public void Exploit(IProductProduceable productProducer)
@@ -78,7 +78,6 @@ namespace FarmersCreed.Units
 
         public void UpdateFarmState()
         {
-            // TODO: Process all animal and plant behavior
             foreach (var animal in this.Animals)
             {
                 animal.Starve();
@@ -90,7 +89,7 @@ namespace FarmersCreed.Units
                 {
                     plant.Grow();
                 }
-                if (plant.HasGrown)
+                else
                 {
                     plant.Wither();
                 }
@@ -101,35 +100,41 @@ namespace FarmersCreed.Units
         {
             StringBuilder result = new StringBuilder(base.ToString());
             result.AppendLine();
+
             var sortedAnimals =
-                from a in this.Animals
-                where a.IsAlive
-                orderby a.Id
-                select a;
+                from animal in this.Animals
+                where animal.IsAlive
+                orderby animal.Id
+                select animal;
+
             var sortedPlants =
-                from p in this.Plants
-                where p.IsAlive
-                orderby p.Health, p.Id
-                select p;
+                from plant in this.Plants
+                where plant.IsAlive
+                orderby plant.Health, plant.Id
+                select plant;
+
             var sortedProducts =
-                from p in this.Products
-                orderby p.ProductType.ToString(), p.Quantity descending , p.Id
-                select p;
+                from product in this.Products
+                orderby product.ProductType.ToString(), product.Quantity descending, product.Id
+                select product;
 
+            foreach (var sortedAnimal in sortedAnimals)
+            {
+                result.AppendLine(sortedAnimal.ToString());
+            }
 
-            foreach (var animal in sortedAnimals)
+            foreach (var sortedPlant in sortedPlants)
             {
-                result.AppendLine(animal.ToString());
+                result.AppendLine(sortedPlant.ToString());
             }
-            foreach (var plant in sortedPlants)
+
+            foreach (var sortedProduct in sortedProducts)
             {
-                result.AppendLine(plant.ToString());
+                result.AppendLine(sortedProduct.ToString());
             }
-            foreach (var product in sortedProducts)
-            {
-                result.AppendLine(product.ToString());
-            }
+
             return result.ToString();
+
         }
     }
 }

@@ -41,11 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Units\Swine.cs" />
-    <Compile Include="Units\Cow.cs" />
     <Compile Include="Units\CherryTree.cs" />
+    <Compile Include="Units\Cow.cs" />
     <Compile Include="Units\FoodPlant.cs" />
-    <Compile Include="Units\Tobacco.cs" />
+    <Compile Include="Units\Swine.cs" />
+    <Compile Include="Units\TobaccoPlant.cs" />
     <Compile Include="Units\Animal.cs" />
     <Compile Include="Simulator\FarmSimulator.cs" />
     <Compile Include="Units\Farm.cs" />

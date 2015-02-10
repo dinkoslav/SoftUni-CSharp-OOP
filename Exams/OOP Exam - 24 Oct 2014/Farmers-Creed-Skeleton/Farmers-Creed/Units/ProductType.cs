@@ -3,9 +3,9 @@
     public enum ProductType
     {
         Grain,
-        Tobacco,
-        Cherry,
+        PorkMeat,
         Milk,
-        PorkMeat
+        Tobacco,
+        Cherry
     }
 }

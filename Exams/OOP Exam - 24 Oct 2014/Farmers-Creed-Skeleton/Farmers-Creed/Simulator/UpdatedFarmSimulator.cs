@@ -1,8 +1,10 @@
-﻿
-
-using FarmersCreed.Interfaces;
+﻿using FarmersCreed.Interfaces;
 using FarmersCreed.Units;
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
 namespace FarmersCreed.Simulator
 {
     public class UpdatedFarmSimulator : FarmSimulator
@@ -21,18 +23,18 @@ namespace FarmersCreed.Simulator
                     }
                     break;
                 case "feed":
-                    {
-                        Animal animal = GetAnimalById(inputCommands[1]);
-                        Food food = GetProductById(inputCommands[2]) as Food;
-                        int quantity = int.Parse(inputCommands[3]);
-                        this.farm.Feed(animal, food, quantity);
-                    }
+                {
+                    Animal animal = GetAnimalById(inputCommands[1]);
+                    Food food = GetProductById(inputCommands[2]) as Food;
+                    int quantity = int.Parse(inputCommands[3]);
+                    this.farm.Feed(animal,food,quantity);
+                }
                     break;
                 case "water":
-                    {
-                        Plant plant = GetPlantById(inputCommands[1]);
-                        this.farm.Water(plant);
-                    }
+                {
+                    Plant plant = GetPlantById(inputCommands[1]);
+                    this.farm.Water(plant);
+                }
                     break;
                 case "exploit":
                 {
@@ -43,7 +45,7 @@ namespace FarmersCreed.Simulator
                 default:
                     base.ProcessInput(input);
                     break;
-            }
+            }    
         }
 
         private IProductProduceable GetUnitById(string type, string unitId)
@@ -58,8 +60,6 @@ namespace FarmersCreed.Simulator
                     throw new ArgumentException("No such type of unit!");
             }
         }
-
-        
 
         protected override void AddObjectToFarm(string[] inputCommands)
         {

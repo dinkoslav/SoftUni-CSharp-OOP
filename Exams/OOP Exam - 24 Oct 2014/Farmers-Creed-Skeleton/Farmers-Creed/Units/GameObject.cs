@@ -6,7 +6,7 @@
     {
         private string id;
 
-        protected GameObject(string id)
+        public GameObject(string id)
         {
             this.Id = id;
         }
