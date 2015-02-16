@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 19 Jan 2015\MusicShopManager-Skeleton\MusicShopManager\bin\Debug\MusicShop.exe.config
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 19 Jan 2015\MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShopManager.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 19 Jan 2015\MusicShopManager-Skeleton\MusicShopManager\bin\Debug\MusicShop.exe
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 19 Jan 2015\MusicShopManager-Skeleton\MusicShopManager\bin\Debug\MusicShop.pdb
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 19 Jan 2015\MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShop.exe
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 19 Jan 2015\MusicShopManager-Skeleton\MusicShopManager\obj\Debug\MusicShop.pdb
