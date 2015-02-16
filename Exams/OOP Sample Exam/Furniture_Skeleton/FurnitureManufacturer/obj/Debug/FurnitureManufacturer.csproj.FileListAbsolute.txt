@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\OOP\Exams\OOP Sample Exam\Furniture_Skeleton\FurnitureManufacturer\bin\Debug\Furnitures.exe.config
+D:\Homeworks\SoftUni\OOP\Exams\OOP Sample Exam\Furniture_Skeleton\FurnitureManufacturer\bin\Debug\Furnitures.exe
+D:\Homeworks\SoftUni\OOP\Exams\OOP Sample Exam\Furniture_Skeleton\FurnitureManufacturer\bin\Debug\Furnitures.pdb
+D:\Homeworks\SoftUni\OOP\Exams\OOP Sample Exam\Furniture_Skeleton\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\OOP\Exams\OOP Sample Exam\Furniture_Skeleton\FurnitureManufacturer\obj\Debug\Furnitures.exe
+D:\Homeworks\SoftUni\OOP\Exams\OOP Sample Exam\Furniture_Skeleton\FurnitureManufacturer\obj\Debug\Furnitures.pdb
