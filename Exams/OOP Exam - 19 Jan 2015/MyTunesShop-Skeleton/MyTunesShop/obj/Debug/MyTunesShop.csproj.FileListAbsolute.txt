@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 19 Jan 2015\MyTunesShop-Skeleton\MyTunesShop\bin\Debug\MyTunesShop.exe.config
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 19 Jan 2015\MyTunesShop-Skeleton\MyTunesShop\bin\Debug\MyTunesShop.exe
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 19 Jan 2015\MyTunesShop-Skeleton\MyTunesShop\bin\Debug\MyTunesShop.pdb
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 19 Jan 2015\MyTunesShop-Skeleton\MyTunesShop\obj\Debug\MyTunesShop.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 19 Jan 2015\MyTunesShop-Skeleton\MyTunesShop\obj\Debug\MyTunesShop.exe
+D:\Homeworks\SoftUni\OOP\Exams\OOP Exam - 19 Jan 2015\MyTunesShop-Skeleton\MyTunesShop\obj\Debug\MyTunesShop.pdb
