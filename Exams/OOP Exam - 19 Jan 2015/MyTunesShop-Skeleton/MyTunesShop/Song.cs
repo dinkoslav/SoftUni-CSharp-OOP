@@ -107,7 +107,9 @@ namespace MyTunesShop
                     return 0;
                 }
 
-                return (int)Math.Ceiling((decimal)this.Ratings.Sum() / (decimal)this.Ratings.Count);
+                double average = (double)this.Ratings.Sum() / (double)this.Ratings.Count;
+                int averageValue = (int)Math.Round(average, 0, MidpointRounding.ToEven);
+                return averageValue;
             }
         }
 

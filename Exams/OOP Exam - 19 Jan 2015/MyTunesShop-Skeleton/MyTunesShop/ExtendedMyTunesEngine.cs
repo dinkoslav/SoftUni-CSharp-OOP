@@ -249,7 +249,7 @@ namespace MyTunesShop
                     var album = this.media.FirstOrDefault(a => a is Album && a.Title == commandWords[2]);
                     if (album == null)
                     {
-                        this.Printer.PrintLine("The song does not exist in the database.");
+                        this.Printer.PrintLine("The album does not exist in the database.");
                         return;
                     }
 
